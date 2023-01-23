@@ -1,2 +1,2 @@
 # CP-Club
-So;utions
+Solutions
